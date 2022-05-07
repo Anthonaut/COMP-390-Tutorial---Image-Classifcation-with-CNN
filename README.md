@@ -10,3 +10,5 @@ This project is coded in Python, but running the constructed CNN will require GP
 2. The YouTube tutorial to follow along - [Real-World Python Neural Nets Tutorial (Image Classification w/ CNN) | Tensorflow & Keras](https://www.youtube.com/watch?v=44U8jJxaNp8&t=680s).
 
 The link given above is the tutorial to follow along. You'll find it helpful to code along the same way the instructor does (e.g syntax, variable names), which makes spotting mistakes easier. There is also no requirement to view any of the instructor's other videos to follow along. 
+
+For reference, there is the code file that shows the output of each of the cell's code block executed and another file without any output shown. This is to help in seeing just tbe code or seeing what the expected output should be in running the code blocks on your own Google Colab.
